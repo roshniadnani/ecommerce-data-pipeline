@@ -1,3 +1,12 @@
+# E-Commerce Data Pipeline & Analytics (Snowflake + dbt)
+
+This repository showcases an end-to-end analytics engineering workflow built on Snowflake and dbt. 
+The project focuses on transforming raw e-commerce data into well-modeled fact and dimension tables, 
+and deriving executive-ready revenue and growth KPIs through SQL-based analytics views and dashboards.
+
+The emphasis of this project is on analytics design, semantic modeling, and business-aligned metrics, 
+not on real-time ingestion or streaming infrastructure.
+
 # E-Commerce Analytics – Documentation
 
 This folder contains documentation related to the analytics layer built on top
