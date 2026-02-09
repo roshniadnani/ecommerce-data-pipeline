@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env
+
+# dbt
+target/
+logs/
+dbt_packages/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Snowflake / credentials
+*.pem
+*.key
+*.env
